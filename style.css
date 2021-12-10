@@ -5,7 +5,7 @@ body{
 }
 #Relogio{
     border-radius: 25PX;
-    border: solid 5px rgb(0, 195, 255); 
+    border: solid 5px #17D4fe; 
     padding-left: 5PX;
     padding-bottom: 5px;    
 }
