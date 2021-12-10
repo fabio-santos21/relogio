@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+
+
+}
+#Relogio{
+    border-radius: 25PX;
+    border: solid 5px rgb(0, 195, 255); 
+    padding-left: 5PX;
+    padding-bottom: 5px;    
+}
+
+.clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4fe;
+    font-size: 60px;
+    font-family: brush -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 7px;
+
+}
